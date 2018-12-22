@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to the OWASP Cheat Sheet Series
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Flagship_Projects)
@@ -86,3 +87,10 @@ A special thank you to the following people for their help provided during the m
 - [Jakub Maćkowski](https://github.com/mackowski): For valuable help in updating the OWASP Wiki links for all the migrated cheat sheets.
 
 Open Worldwide Application Security Project and OWASP are registered trademarks of the OWASP Foundation, Inc.
+=======
+This repo will contains all the cheat sheets of the project.
+
+The migration will start in January 2019...
+
+Stay tuned :smiley:
+>>>>>>> b1cce703 (Init the repo)
