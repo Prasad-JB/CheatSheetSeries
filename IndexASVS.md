@@ -138,3 +138,4 @@ The objective of this index is to help an OWASP [Application Security Verificati
 - **V14.2 Dependency & Patch Management**: Vulnerable Dependency Management  
 - **V14.3 Security Headers**: Content Security Policy  
 - **V14.4 Web Server & App Configuration**: Docker Security, Vulnerable Dependency Management
+
